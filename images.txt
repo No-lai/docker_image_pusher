@@ -1,1 +1,1 @@
-anggenius/dify-api:latest
+postgres:15-alpine
