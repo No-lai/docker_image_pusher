@@ -1,1 +1,1 @@
-weaviate
+langgenius/dify-web
