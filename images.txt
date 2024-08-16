@@ -1,9 +1,1 @@
 weaviate
-db
-ssrf_proxy
-redis
-nginx
-worker
-web
-api
-sandbox
