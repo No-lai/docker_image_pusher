@@ -1,1 +1,4 @@
-langgenius/dify-api:latest
+semitechnologies/weaviate:1.19.0
+langgenius/dify-sandbox:latest
+ubuntu/squid:latest
+nginx:latest
