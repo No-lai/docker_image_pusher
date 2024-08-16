@@ -1,2 +1,3 @@
-weaviate
-nginx
+alpine
+kasmweb/nginx：1.125.3
+Weaviate
